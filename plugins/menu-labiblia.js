@@ -20,7 +20,7 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `*[❗] Los comandos +1
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `
- ╭━     ❄ 𝑩𝒐𝒕𝒄𝒊𝒕𝒐 𝑪𝒂𝒈𝒂 𝑯𝒊𝒆𝒍𝒐 ❄
+ ╭━     ❄ 𝐏𝐚𝐮 𝐁𝐨𝐭 ❄
  ┃➤
  ┃➤    𝗛ola, ${taguser}
  ┃➤
